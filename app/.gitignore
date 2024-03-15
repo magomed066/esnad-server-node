@@ -1,0 +1,9 @@
+node_modules
+
+dist
+
+config
+migrations
+seeders
+
+.vscode
